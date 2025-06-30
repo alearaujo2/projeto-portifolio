@@ -76,7 +76,7 @@ section {
     display: flex;
     align-items: center;
     padding: 0 9%;
-    background: url('/Users/reido/Desktop/projetinho new/img/ilustrativo_mar.jpeg') no-repeat;
+    background: url('img/ilustrativo_mar.jpeg') no-repeat;
     background-size: cover;
     background-position: center;
 }
